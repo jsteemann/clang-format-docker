@@ -1,5 +1,5 @@
 # arangodb-clang-format
 
-Runs `clang-format -style=file -i "$@"` from an alpine-based container. 
+Runs `clang-format -style=file -i "$@"` from an alpine-based container.
 
-TODO: Finish README
+See [arangodb/clang-format](https://hub.docker.com/r/arangodb/clang-format)
