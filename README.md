@@ -1,2 +1,5 @@
-# clang-format-docker
-An Alpine-based clang-format shell executable
+# arangodb-clang-format
+
+Runs `clang-format -style=file -i "$@"` from an alpine-based container. 
+
+TODO: Finish README
